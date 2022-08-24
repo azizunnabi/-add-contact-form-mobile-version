@@ -1,8 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+contact form project
 
 > Description the project.
+> This is simple portfolio project
 
 
 ## Built With
@@ -42,9 +44,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@https://github.com/azizunnabi](https://github.com/https://github.com/azizunnabi)
+- Twitter: [@UnnabiAziz](https://twitter.com/@UnnabiAziz)
+- LinkedIn: [aziz-unnabi-770bb7212](https://linkedin.com/in/aziz-unnabi-770bb7212)
 
 👤 **Author2**
 
@@ -70,4 +72,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
