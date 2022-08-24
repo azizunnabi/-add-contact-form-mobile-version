@@ -148,7 +148,7 @@ a.inline {
 /* Header / 1 */
 
 .h2 {
-  margin-top: -30px;
+  margin-top:-30px;
   font-family: "poppins", Times, serif;
   font-style: normal;
   font-weight: 700;
@@ -261,7 +261,7 @@ h5 {
 
 .ets {
   color: #6070ff;
-  padding-top: 50px;
+  padding-top:50px;
 }
 
 .image3 {
@@ -358,11 +358,13 @@ h5 {
   flex-grow: 0;
 }
 
+.sec3p1{
+  margin-top: -16px;
+}
 .sec3p1 {
   width: 295px;
   height: 76px;
   text-align: justify;
-  margin-top: -16px;
 
   /* Body / 3 */
 
@@ -528,8 +530,8 @@ h5 {
   position: absolute;
   width: 375px;
   height: 779px;
-  left: 1px;
-  background: #6070ff;
+  left: 0px;
+  background: #6070FF;
 }
 
 .and {
@@ -540,9 +542,10 @@ h5 {
 .name {
   height: 18px;
   left: 16px;
-  top: calc(50% - 18px / 2);
+  right: 38px;
+  top: calc(50% - 18px/2);
   border-radius: 8px;
-  font-family: 'Poppins', Times, serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
@@ -550,41 +553,43 @@ h5 {
   margin: 10px auto;
   display: flex;
   align-items: center;
-  width: 327px;
-  height: 48px;
-  border-radius: 8px;
-  color: #172b4d;
+  Width: 327px;
+  Height: 48px;
+  Radius: 8px;
+  color: #172B4D;
 }
 
 .em {
+  height: 18px;
   left: 16px;
-  top: calc(50% - 18px / 2);
-  font-family: 'Poppins', Times, serif;
+  right: 38px;
+  top: calc(50% - 18px/2);
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
   line-height: 20px;
   margin: 10px auto;
-  height: 48px;
-  width: 327px;
-  border-radius: 8px;
+  Height: 48px;
+  Width: 327px;
+  Radius: 8px;
   display: flex;
   align-items: center;
-  color: #172b4d;
-  border: 1px solid #cfd8dc;
+  color: #172B4D;
+  border: 1px solid #CFD8DC;
 }
 
 .message {
-  left: 1px;
-  right: 1px;
-  top: 1px;
-  bottom: 1px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
   margin-left: 20px;
-  background: #fff;
-  border: 1px solid #cfd8dc;
+  background: #FFFFFF;
+  border: 1px solid #CFD8DC;
   border-radius: 8px;
-  width: 327px;
-  height: 170px;
+  Width: 327px;
+  Height: 170px;
 }
  
 .paragraph {
@@ -593,14 +598,14 @@ h5 {
   left: 24px;
   top: 4802px;
   text-align: center;
-  font-family: 'Poppins', Times, serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
   margin-left: 5px;
-  margin-top: -30px;
-  color: #ebebff;
+  margin-top:-30px;
+  color: #EBEBFF;
 }
 
 .head {
@@ -608,8 +613,8 @@ h5 {
   height: 56px;
   left: -213px;
   top: 4734px;
-  margin-left: 20px;
-  font-family: 'Poppins', Times, serif;
+  margin-left:20px;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -617,18 +622,18 @@ h5 {
   display: flex;
   align-items: center;
   text-align: center;
-  color: #fff;
+  color: #FFFFFF;
 }
 
 .sub {
   width: 108px;
   height: 24px;
   margin: 10px auto;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top:20px;
+  padding-bottom:20px;
   margin-left: 20px;
   border-radius: 8px;
-  font-family: 'Poppins', Times, serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -637,8 +642,9 @@ h5 {
   align-items: center;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #6070ff;
+  color: #6070FF;
   flex: none;
   order: 0;
   flex-grow: 0;
 }
+
