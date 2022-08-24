@@ -528,7 +528,7 @@ h5 {
   position: absolute;
   width: 375px;
   height: 779px;
-  left: 0px;
+  left: 1px;
   background: #6070ff;
 }
 
@@ -540,8 +540,7 @@ h5 {
 .name {
   height: 18px;
   left: 16px;
-  right: 38px;
-  top: calc(50% - 18px/2);
+  top: calc(50% - 18px / 2);
   border-radius: 8px;
   font-family: 'Poppins', Times, serif;
   font-style: normal;
@@ -560,7 +559,7 @@ h5 {
 .em {
   left: 16px;
   right: 38px;
-  top: calc(50% - 18px/2);
+  top: calc(50% - 18px / 2);
   font-family: 'Poppins', Times, serif;
   font-style: normal;
   font-weight: 400;
@@ -577,12 +576,12 @@ h5 {
 }
 
 .message {
-  left: 0px;
-  right: 0px;
-  top: 0px;
-  bottom: 0px;
+  left: 1px;
+  right: 1px;
+  top: 1px;
+  bottom: 1px;
   margin-left: 20px;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
   width: 327px;
@@ -611,7 +610,7 @@ h5 {
   left: -213px;
   top: 4734px;
   margin-left: 20px;
-  font-family: 'Poppins', Times, serif;;
+  font-family: 'Poppins', Times, serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -619,7 +618,7 @@ h5 {
   display: flex;
   align-items: center;
   text-align: center;
-  color: #ffffff;
+  color: #fff;
 }
 
 .sub {
@@ -630,7 +629,7 @@ h5 {
   padding-bottom: 20px;
   margin-left: 20px;
   border-radius: 8px;
-  font-family: 'Poppins', Times, serif;;
+  font-family: 'Poppins', Times, serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
