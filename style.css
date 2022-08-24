@@ -552,13 +552,12 @@ h5 {
   align-items: center;
   width: 327px;
   height: 48px;
-  radius: 8px;
+  border-radius: 8px;
   color: #172b4d;
 }
 
 .em {
   left: 16px;
-  right: 38px;
   top: calc(50% - 18px / 2);
   font-family: 'Poppins', Times, serif;
   font-style: normal;
@@ -568,7 +567,7 @@ h5 {
   margin: 10px auto;
   height: 48px;
   width: 327px;
-  radius: 8px;
+  border-radius: 8px;
   display: flex;
   align-items: center;
   color: #172b4d;
