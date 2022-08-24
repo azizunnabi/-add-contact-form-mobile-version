@@ -527,7 +527,7 @@ h5 {
   position: absolute;
   width: 375px;
   height: 779px;
-  left: 0px;
+  left: 1px;
   background: #6070ff;
 }
 
@@ -537,10 +537,8 @@ h5 {
 }
 
 .name {
-  height: 18px;
   left: 16px;
   top: calc(50% - 18px / 2);
-  border-radius: 8px;
   font-family: "poppins", Times, serif;
   font-style: normal;
   font-weight: 400;
@@ -583,8 +581,8 @@ h5 {
   background: #fff;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
-  Width: 327px;
-  Height: 170px;
+  width: 327px;
+  height: 170px;
 }
  
 .paragraph {
@@ -599,7 +597,7 @@ h5 {
   font-size: 20px;
   line-height: 28px;
   margin-left: 5px;
-  margin-top:-30px;
+  margin-top: -30px;
   color: #ebebff;
 }
 
@@ -642,4 +640,3 @@ h5 {
   order: 0;
   flex-grow: 0;
 }
-
