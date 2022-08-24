@@ -1,0 +1,167 @@
+.sec1 {
+    display: flex;
+    flex-direction: column;
+    
+    position: absolute;
+    width: 375px;
+    height: 779px;
+    left: 0px;
+    
+    
+    /* Primary/B400 */
+    
+    background: #6070FF;
+   
+}
+
+.and {
+    display: flex;
+    flex-direction: row;
+}
+
+.name {
+    height: 18px;
+    left: 16px;
+    right: 38px;
+    top: calc(50% - 18px/2);
+    border-radius: 8px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    /* or 118% */
+    margin: 10px auto;
+    
+    display: flex;
+    align-items: center;
+    Width: 327px;
+    Height: 48px;
+    Radius: 8px;
+    
+    
+    /* Neutral/N800 */
+    
+    color: #172B4D;
+}
+
+.em {
+    height: 18px;
+    left: 16px;
+    right: 38px;
+    top: calc(50% - 18px/2);
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    margin: 10px auto;
+    /* or 118% */
+    Height: 48px;
+    Width: 327px;
+    Radius: 8px;
+    display: flex;
+    align-items: center;
+    
+    /* Neutral/N800 */
+    
+    color: #172B4D;
+    border: 1px solid #CFD8DC;
+}
+
+.message {
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin-left: 20px;
+    /* Mono/White */
+    
+    background: #FFFFFF;
+    /* Base/100 */
+    border: 1px solid #CFD8DC;
+    border-radius: 8px;
+    Width: 327px;
+    Height: 170px;
+    
+}
+ 
+.paragraph {
+width: 327px;
+height: 102px;
+left: 24px;
+top: 4802px;
+text-align: center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+margin-left: 5px;
+margin-top:-30px;
+
+/* Primary/B50 */
+
+color: #EBEBFF;
+
+}
+
+.head {
+width: 801px;
+height: 56px;
+left: -213px;
+top: 4734px;
+margin-left:20px;
+
+/* Header / 2 */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* or 130% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Neutrals/N0 */
+
+color: #FFFFFF;
+}
+.sub {
+width: 108px;
+height: 24px;
+margin: 10px auto;
+padding-top:20px;
+padding-bottom:20px;
+margin-left: 20px;
+border-radius: 8px;
+/* Button /Normal */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 24px;
+/* identical to box height, or 141% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.03em;
+
+/* Primary/B400 */
+
+color: #6070FF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
