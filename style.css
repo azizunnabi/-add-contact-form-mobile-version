@@ -643,3 +643,15 @@ h5 {
   order: 0;
   flex-grow: 0;
 }
+
+.sub:hover {
+  border: 1px solid #cfd8dc;
+  width: 109px;
+  height: 25px;
+}
+
+.sub:active {
+  border: 1px solid #cfd8dc;
+  width: 110px;
+  height: 26px;
+}
