@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-This project name is Portfolio: add a contact form and finish the mobile version
+This project name is (Portfolio :add a contact form and finish the mobile version)
 
 > Description the project.
 > This is simple portfolio project contact form.This project include basic user information like name, email and textarea. name input field will get up to 25 characters and textarea will get maximum up to 500 characters
