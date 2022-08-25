@@ -1,17 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-contact form project
+This project name is Portfolio: add a contact form and finish the mobile version
 
 > Description the project.
-> This is simple portfolio project
+> This is simple portfolio project contact form.This project include basic user information like name, email and textarea. name input field will get up to 25 characters and textarea will get maximum up to 500 characters
 
 
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
+- Html
+- css
+-
 
 ## Live Demo (if available)
 
@@ -19,6 +20,10 @@ contact form project
 
 
 ## Getting Started
+This project can be run locally. following are the steps to run this project.
+1) First this should be to clone from github. 
+2) Than if it is in extract form ok other wise extract it.
+3) Now open index page with the browswer with any server like amp or xammp etc
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
@@ -26,15 +31,11 @@ contact form project
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### clone it from github
 
-### Setup
+### Extract it
 
-### Install
-
-### Usage
-
-### Run tests
+### Open index.html with chrome
 
 ### Deployment
 
